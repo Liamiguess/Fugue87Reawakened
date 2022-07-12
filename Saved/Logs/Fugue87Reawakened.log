@@ -1069,3 +1069,10 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.12-21.17.42:426][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
 [2022.07.12-21.17.42:435][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
 [2022.07.12-21.17.42:504][211]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.07.12-21.19.06:042][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.07.12-21.19.09:231][709]LogSlate: Window 'Save Content' being destroyed
+[2022.07.12-21.19.09:388][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Models/Cylinder" FILE="../../../../../../Users/Rafael Danieli/Documents/GitHub/Fugue87Reawakened/Content/Assets/Models/Cylinder.uasset" SILENT=true
+[2022.07.12-21.19.09:392][709]LogSavePackage: Moving output files for package: /Game/Assets/Models/Cylinder
+[2022.07.12-21.19.09:392][709]LogSavePackage: Moving '../../../../../../Users/Rafael Danieli/Documents/GitHub/Fugue87Reawakened/Saved/CylinderF95CE4A74D3DAA911DCFE7A3AD64E1FE.tmp' to '../../../../../../Users/Rafael Danieli/Documents/GitHub/Fugue87Reawakened/Content/Assets/Models/Cylinder.uasset'
+[2022.07.12-21.19.09:397][709]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WH/GMW01A4OQRXPF1ISWHZG5H
+[2022.07.12-21.19.09:397][709]LogSavePackage: Moving '../../../../../../Users/Rafael Danieli/Documents/GitHub/Fugue87Reawakened/Saved/GMW01A4OQRXPF1ISWHZG5H9136FBF24375B5BDCBB83F945BA57357.tmp' to '../../../../../../Users/Rafael Danieli/Documents/GitHub/Fugue87Reawakened/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/WH/GMW01A4OQRXPF1ISWHZG5H.uasset'
